@@ -1,0 +1,116 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 2em;
+  font-family: tahoma,helvetica, arial, sans-serif;
+  background-color: #1798c1; /*Changed to hex color of Salesforce site*/
+  color: white; 
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+  color: white;
+}
+
+button {
+  font-family: verdana, arial, sans-serif;
+  color: black; 
+  padding: 15px; 
+  border-radius: 10px; 
+}
+
+#gameButtonArea > button {
+  width:200px; 
+  height:200px;
+  margin:5px;
+  
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+  font-family: verdana,arial, sans-serif;
+  color: #00008B; /*pillars of Salesforce*/
+  font-weight: bold;
+}
+
+
+#button1:active, #button1.lit{
+  background:url(https://cdn.glitch.global/b5a71364-3958-42f1-b468-fc15fc9e8b76/trust.webp?v=1650411542476);
+  background-position: center;
+  background-size: 100% 140%;
+  font-size: 0px;
+  }
+
+
+
+#button2 {
+  background: lightblue;
+  font-family: verdana,arial, sans-serif;
+  color: #00008B; 
+  font-weight: bold;
+}
+
+#button2:active, #button2.lit{
+  background:url(https://cdn.glitch.global/b5a71364-3958-42f1-b468-fc15fc9e8b76/customerSuccess.webp?v=1650410926608);
+  background-position: right;
+  background-size: 200px 300px;
+  font-size: 0px;
+  }
+
+#button3 {
+  background: pink;
+  font-family: verdana,arial, sans-serif;
+  color: #00008B; 
+  font-weight: bold;
+}
+
+#button3:active, #button3.lit{
+  background:url(https://cdn.glitch.global/b5a71364-3958-42f1-b468-fc15fc9e8b76/partners.webp?v=1650410927433);
+  background-position: center;
+  background-size: 120% 160%;
+  font-size: 0px;
+  }
+
+#button4 {
+  background: lightyellow;
+  font-family: verdana,arial, sans-serif;
+  color: #00008B; 
+  font-weight: bold;
+}
+
+#button4:active, #button4.lit{
+  background:url(https://cdn.glitch.global/b5a71364-3958-42f1-b468-fc15fc9e8b76/inclusion.webp?v=1650410926907);
+  background-position: center;
+  background-size: 120% 160%;
+  font-size: 0px;
+  }
+
+#button5 {
+  background: peru;
+  font-family: verdana,arial, sans-serif;
+  color: #00008B; 
+  font-weight: bold;
+}
+
+#button5:active, #button5.lit{
+  background:url(https://cdn.glitch.global/b5a71364-3958-42f1-b468-fc15fc9e8b76/forwardThinking%3ASustainable.webp?v=1650412009235);
+  background-position: center;
+  background-size: 120% 160%;
+  font-size: 0px;
+  }
+
