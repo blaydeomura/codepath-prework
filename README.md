@@ -40,27 +40,31 @@ The following **additional** features are implemented:
 
 
 ![]()![](https://i.imgur.com/wTAi7gw.gif) 
+
 (above) Partial walk-through of pattern. Working web page with correct buttons.
 
 ![](https://i.imgur.com/Ljltq35.gif) 
+
 (above) Losing twice, and on the third time, end game.
 
 ![]()![](https://i.imgur.com/xKE6A1U.gif) 
+
 (above) Playback speeds up + end game!
 
 ![]()![](https://i.imgur.com/1O93b4n.gif) 
+
 (above) Salesforce characters under buttons that correspond to Salesforce's core values.
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Adding images to glitch](https://mica-web.github.io/learn/workflows/add-img-glitch)
-[Uploading images to glitch](https://www.youtube.com/watch?v=XKUPuGXkpTY)
-[Salesforce hex colors](https://encycolorpedia.com/1798c1)
-[Formatting colors](https://www.rapidtables.com/web/css/css-color.html)
-[Placing images into html](https://www.delftstack.com/howto/html/html-button-with-image/https://www.delftstack.com/howto/html/html-button-with-image/)
-[Img syntax](https://www.w3schools.com/tags/tag_img.asp)
-[Font size format css](https://www.w3schools.com/cssref/pr_font_font-size.asp)
+[Adding images to glitch](https://mica-web.github.io/learn/workflows/add-img-glitch), 
+[Uploading images to glitch](https://www.youtube.com/watch?v=XKUPuGXkpTY), 
+[Salesforce hex colors](https://encycolorpedia.com/1798c1), 
+[Formatting colors](https://www.rapidtables.com/web/css/css-color.html), 
+[Placing images into html](https://www.delftstack.com/howto/html/html-button-with-image/https://www.delftstack.com/howto/html/html-button-with-image/), 
+[Img syntax](https://www.w3schools.com/tags/tag_img.asp), 
+[Font size format css](https://www.w3schools.com/cssref/pr_font_font-size.asp), 
 Yordanos from USFCA CS peer tutoring center: showed me the “background: url…;" syntax.
 
 
